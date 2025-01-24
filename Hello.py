@@ -1,5 +1,5 @@
-def hello_world():
-    print ("Hello, world!")
-
-
-print ("Test")
+print ("Hello, world!")
+print ("Hello, world!")
+print ("Hello, world!")
+print ("Hello, world!")
+print ("Hello, world!")
